@@ -88,6 +88,8 @@ function lazyScript.loadBuffTable()
 		dash                 = lazyScript.Buff:New("dash",                "Ability_Druid_Dash"                              ),
 		pounce               = lazyScript.Buff:New("pounce",              "Ability_Druid_SupriseAttack",      "dot"         ),
 		tigersFury           = lazyScript.Buff:New("tigersFury",          "Ability_Mount_JungleTiger"                       ),
+		bloodFrenzy          = lazyScript.Buff:New("bloodFrenzy",         "Ability_GhoulFrenzy"                             ),
+		berserk              = lazyScript.Buff:New("berserk",             "Ability_Druid_ChallangingRoar"                   ),
 		
 		bash                 = lazyScript.Buff:New("bash",                "Ability_Druid_Bash",               "stun"        ),
 		charge               = lazyScript.Buff:New("charge",              "Ability_Hunter_Pet_Bear",          "immobile"    ),
