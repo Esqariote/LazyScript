@@ -273,6 +273,8 @@ lsLocale.enUS.BUFF_TTS = {
 	dash                 = "Dash",
 	pounce               = "Pounce Bleed",
 	tigersFury           = "Tiger's Fury",
+	bloodFrenzy          = "Blood Frenzy",
+	berserk              = "Berserk",
 	
 	bash                 = "Bash",
 	charge               = "Feral Charge Effect",
