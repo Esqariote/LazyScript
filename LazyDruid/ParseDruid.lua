@@ -720,6 +720,24 @@ function lazyDruidLoad.LoadParseDruid()
 		"hibernate"
 	}
 	
+
+	lazyDruid.defaultForms.KolesoKotorkusa = {
+		"cat",
+		"ravage-ifProwling",
+		"feralFire",
+		"shred-ifPlayerHasBuff=clearcasting",
+		"bite-5cp",
+		"tigersFury-ifNotPlayerHasBuff=bloodFrenzy ",
+		"shred-ifPlayer>63energy-ifPlayer<71energy",
+		"shred-ifPlayer>83energy",
+		"shred-3cp",
+		"claw--ifPlayer>72energy-ifPlayer<82energy-4cp",
+		"bite-4cp",
+		"caster-ifPlayer<14energy-ifNotPlayerHasBuff=berserk",
+		"caster-ifPlayer<27energy-3cp-ifNotPlayerHasBuff=berserk",
+		"caster-ifPlayer<7energy-ifPlayerHasBuff=berserk"
+	}
+
 	
 	-- Custom data
 	---------------
