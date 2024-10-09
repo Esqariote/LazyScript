@@ -56,6 +56,7 @@ function lazyHunterLoad.LoadHunterLocalization(locale)
 	lazyHunterLocale.enUS.ACTION_TTS.wingClip             = "Wing Clip"
 	lazyHunterLocale.enUS.ACTION_TTS.bestialWrath         = "Bestial Wrath"
 	lazyHunterLocale.enUS.ACTION_TTS.wyvern               = "Wyvern Sting"
+	lazyHunterLocale.enUS.ACTION_TTS.ts                   = "Trueshot"
 	
 	lazyHunterLocale.enUS.ACTION_TTS.petBite              = "Bite"
 	lazyHunterLocale.enUS.ACTION_TTS.petBreath            = "Lightning Breath"
