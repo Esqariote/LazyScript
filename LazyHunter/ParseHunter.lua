@@ -63,6 +63,7 @@ function lazyHunterLoad.LoadParseHunter()
 	lazyHunter.actions.volley              = lazyHunter.Action:New("volley",               "Ability_Marksmanship", nil, nil, true)
 	lazyHunter.actions.wingClip            = lazyHunter.Action:New("wingClip",             "Ability_Rogue_Trip", nil, nil, true)
 	lazyHunter.actions.wyvern              = lazyHunter.Action:New("wyvern",               "INV_Spear_02")
+	lazyHunter.actions.ts                  = lazyHunter.Action:New("ts",                   "Ability_Hunter_SteadyShot")
 	
 	
 	-- Pet actions
