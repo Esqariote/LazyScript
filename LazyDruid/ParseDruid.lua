@@ -738,6 +738,14 @@ function lazyDruidLoad.LoadParseDruid()
 		"caster-ifPlayer<7energy-ifPlayerHasBuff=berserk"
 	}
 
+	lazyDruid.defaultForms.Moonkin = {
+		"swarm-ifNotTargetHasDebuff=swarm"
+		"moonfire-ifNotTargetHasDebuff=moonfire"
+		"starfire-ifPlayerHasBuff=arcaneEclipse"
+		"starfire-ifPlayerHasBuff=astralBoon"
+		"wrath-ifNotPlayerHasBuff=arcaneEclipse"
+	}
+
 	
 	-- Custom data
 	---------------
