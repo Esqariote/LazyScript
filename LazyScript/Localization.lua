@@ -299,6 +299,7 @@ lsLocale.enUS.BUFF_TTS = {
 	soothe               = "Soothe Animal",
 	swarm                = "Insect Swarm",
 	thorns               = "Thorns",
+	tranquility          = "Tranquility",
 	arcaneEclipse        = "Arcane Eclipse",
 	astralBoon           = "Astral Boon",
 	naturalBoon          = "Natural Boon",
