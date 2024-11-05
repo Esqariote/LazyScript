@@ -745,7 +745,7 @@ function lazyDruidLoad.LoadParseDruid()
 		"moonfire-ifLastAction=moonfire-ifTargetResisted<2s",
 		"starfire-ifPlayerHasBuff=arcaneEclipse",
 		"starfire-ifPlayerHasBuff=astralBoon",
-		"wrath#-ifNotPlayerHasBuff=arcaneEclipse
+		"wrath#-ifNotPlayerHasBuff=arcaneEclipse"
 	}
 
 	
