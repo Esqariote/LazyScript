@@ -115,9 +115,9 @@ function lazyScript.loadBuffTable()
 		swarm                = lazyScript.Buff:New("swarm",               "Spell_Nature_InsectSwarm",         "dot"         ), -- check
 		thorns               = lazyScript.Buff:New("thorns",              "Spell_Nature_Thorns"                             ),
 		tranquility          = lazyScript.Buff:New("tranquility",         "Spell_Nature_Tranquility",         "hot"         ),
-		arcaneEclipse        = lazyScript.Buff:New("arcaneEclipse",       "Spell_Nature_Wispsplode"                         ),
-		astralBoon           = lazyScript.Buff:New("astralBoon",          "Spell_Arcane_Starfire"                           ),
-		naturalBoon          = lazyScript.Buff:New("naturalBoon",         "Spell_Nature_Abolishmagic"                       ),
+		arcaneEclipse        = lazyScript.Buff:New("arcaneEclipse",       "Spell_Nature_WispSplode"                         ),
+		astralBoon           = lazyScript.Buff:New("astralBoon",          "Spell_Arcane_StarFire"                           ),
+		naturalBoon          = lazyScript.Buff:New("naturalBoon",         "Spell_Nature_AbolishMagic"                       ),
 		
 		
 		-- Hunter related
