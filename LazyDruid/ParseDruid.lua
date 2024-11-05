@@ -739,10 +739,10 @@ function lazyDruidLoad.LoadParseDruid()
 	}
 
 	lazyDruid.defaultForms.Moonkin = {
-		"swarm-ifNotTargetHasDebuff=swarm"
-		"moonfire-ifNotTargetHasDebuff=moonfire"
-		"starfire-ifPlayerHasBuff=arcaneEclipse"
-		"starfire-ifPlayerHasBuff=astralBoon"
+		"swarm-ifNotTargetHasDebuff=swarm",
+		"moonfire-ifNotTargetHasDebuff=moonfire",
+		"starfire-ifPlayerHasBuff=arcaneEclipse",
+		"starfire-ifPlayerHasBuff=astralBoon",
 		"wrath-ifNotPlayerHasBuff=arcaneEclipse"
 	}
 
